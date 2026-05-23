@@ -143,6 +143,6 @@ I am eager to gain hands-on startup experience and work with cross-functional te
 
 ---
 
-**Last Updated:** May 23, 2026  
+**Last Updated:** May2026  
 **Location:** Lagos, Nigeria  
-**Status:** Seeking QA Intern Opportunity
+**Status:** Seeking QA Entry Level Opportunity
